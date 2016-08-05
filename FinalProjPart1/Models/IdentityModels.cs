@@ -29,5 +29,7 @@ namespace FinalProjPart1.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<FinalProjPart1.Models.Food> Foods { get; set; }
     }
 }

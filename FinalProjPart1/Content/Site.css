@@ -1,11 +1,14 @@
 ﻿
 
 body {
-    background-image:url(../img/cover1.jpg);
+    /*background-image:url(../Assests/img/cover1.jpg);
    background-repeat: no-repeat;
     background-origin: content-box;
     background-position: center;
-     background-size:cover;
+     background-size:cover;*/
+    background: #fff url(../Assests/img/cover1.jpg) no-repeat center center;
+    background-size: cover;
+    margin-top:50px;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     
@@ -361,7 +364,7 @@ about section
 contact section
 ========================================================================== */
 #contact {
-  background: #3B3B3B url(../img/cover1.jpg) no-repeat center center;
+  background: #3B3B3B url(../Assests/img/cover1.jpg) no-repeat center center;
   background-size: cover;
   margin-top:50px;
   color: #ffffff;

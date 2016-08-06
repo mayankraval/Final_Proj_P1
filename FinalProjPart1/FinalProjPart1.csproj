@@ -188,6 +188,8 @@
     <Content Include="Assests\img\appetizers\mutton-rolls.jpg" />
     <Content Include="Assests\img\appetizers\Vegge-Pakora.jpg" />
     <Content Include="Assests\img\cover1.jpg" />
+    <Content Include="Assests\img\logo.gif" />
+    <Content Include="Assests\img\logo.png" />
     <Content Include="Assests\img\soup\Daal-Soup.jpg" />
     <Content Include="Assests\img\soup\Mulagatawny-Soup.jpg" />
     <Content Include="Content\app.css" />

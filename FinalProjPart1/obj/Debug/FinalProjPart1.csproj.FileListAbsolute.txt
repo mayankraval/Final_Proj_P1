@@ -66,3 +66,4 @@ C:\Users\mayan\Documents\visual studio 2015\Projects\FinalProjPart1\FinalProjPar
 C:\Users\mayan\Documents\visual studio 2015\Projects\FinalProjPart1\FinalProjPart1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\mayan\Documents\visual studio 2015\Projects\FinalProjPart1\FinalProjPart1\obj\Debug\FinalProjPart1.dll
 C:\Users\mayan\Documents\visual studio 2015\Projects\FinalProjPart1\FinalProjPart1\obj\Debug\FinalProjPart1.pdb
+C:\Users\mayan\Documents\visual studio 2015\Projects\FinalProjPart1\FinalProjPart1\obj\Debug\FinalProjPart1.csprojResolveAssemblyReference.cache

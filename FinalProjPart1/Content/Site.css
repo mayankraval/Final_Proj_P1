@@ -261,10 +261,10 @@ navigation section
 home section
 ========================================================================== */
 #home {
-    margin-top:5%;
+    margin-top:0%;
   background-size: cover;
   background-position: center;
-  color: #ffffff;
+  color: #000000;
   display: -ms-flexbox;
   display: flex;
   align-items: center;
@@ -281,14 +281,14 @@ home section
 }
 #home .btn {
   background: transparent;
-  border: 4px solid #ffffff;
+  border: 4px solid #000000;
   border-radius: 0;
-  color: #ffffff;
+  color: #000000;
   font-size: 15px;
   font-weight: bold;
   letter-spacing: 2px;
   padding: 12px 42px;
-  margin-top: 40px;
+  margin-top: 20px;
   margin-right: 16px;
   transition: all 0.4s ease-in-out;
 }
@@ -301,10 +301,10 @@ home section
   border-color: transparent;
 }
 #home .btn-danger:hover {
-	border: 4px solid #ffffff;
+	border: 4px solid #000000;
   	border-radius: 0;
 	background: transparent;
-  	color: #ffffff;
+  	color: #000000;
 }
 
 
@@ -315,7 +315,7 @@ about section
 #about {
     margin-top: 50px;
     background: rgba(0, 0, 0, .075);
-    color: #ffffff;
+    color: #fff;
     font:bold;
 }
 .nav-tabs {
@@ -328,7 +328,7 @@ about section
 }
 .nav-tabs > li > a {
 	display: block;
-  	color: #ffffff;
+  	color: #000000;
   	font-size: 16px;
   	padding: 10px 20px;
   	border: 0;
@@ -366,7 +366,7 @@ contact section
 #contact {
   background: #3B3B3B url(../Assests/img/cover1.jpg) no-repeat center center;
   background-size: cover;
-  color: #ffffff;
+  color: #fff;
   font-size: 25px;
   font-weight: bold;
 }
@@ -390,7 +390,7 @@ contact section
   padding-top: 60px;
 }
 #contact .form-control {
-  border: 2px solid #ffffff;
+  border: 2px solid #000000;
   border-radius: 0;
   box-shadow: none;
   margin-top: 10px;
@@ -406,10 +406,10 @@ contact section
   letter-spacing: 1px;
   margin-top: 18px;
   height: 50px;
-  color: #ffffff;
+  color: #000000;
 }
 #contact input[type="submit"]:hover {
-  color: #000000;
+  color: #fff;
 }
 
 

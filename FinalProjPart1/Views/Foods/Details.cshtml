@@ -1,4 +1,4 @@
-﻿@model RestaurantAssign2.Models.Food
+﻿@model FinalProjPart1.Models.Food
 
 @{
     ViewBag.Title = "Details";
@@ -10,7 +10,7 @@
             <div class="col-md-12 col-sm-12">
                 <table class="table">
                     <tr>
-                        <td rowspan="5"><img src="~/img/@Html.DisplayFor(model => model.type)/@Html.DisplayFor(model => model.image)" height="400" width="400" /></td>
+                        <td rowspan="5"><img src="~/Assests/img/@Html.DisplayFor(model => model.type)/@Html.DisplayFor(model => model.image)" height="400" width="400" /></td>
                     </tr>
                     <tr><td><h2>@Html.DisplayFor(model => model.name)</h2></td></tr>
                     <tr><td><b> Description :</b> @Html.DisplayFor(model => model.description)</td></tr>

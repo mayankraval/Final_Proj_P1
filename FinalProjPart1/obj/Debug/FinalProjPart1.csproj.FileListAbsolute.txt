@@ -64,5 +64,6 @@ C:\Users\mayan\Documents\Visual Studio 2015\Projects\FinalProjPart1\FinalProjPar
 C:\Users\mayan\Documents\Visual Studio 2015\Projects\FinalProjPart1\FinalProjPart1\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\mayan\Documents\Visual Studio 2015\Projects\FinalProjPart1\FinalProjPart1\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\mayan\Documents\Visual Studio 2015\Projects\FinalProjPart1\FinalProjPart1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mayan\Documents\Visual Studio 2015\Projects\FinalProjPart1\FinalProjPart1\obj\Debug\FinalProjPart1.csprojResolveAssemblyReference.cache
 C:\Users\mayan\Documents\Visual Studio 2015\Projects\FinalProjPart1\FinalProjPart1\obj\Debug\FinalProjPart1.dll
 C:\Users\mayan\Documents\Visual Studio 2015\Projects\FinalProjPart1\FinalProjPart1\obj\Debug\FinalProjPart1.pdb
